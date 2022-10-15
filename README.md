@@ -49,7 +49,7 @@ Star the repo by pressing the topmost-right button to start your wonderful journ
 
 ### 1. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [HackOctober22](https://github.com/SubratYeeshu/DataStructuresImplementation.git) by using the <a href="https://github.com/spandey1296/CODEMONK-2022/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button.
+You can get your own fork/copy of [DataStructuresImplementation](https://github.com/SubratYeeshu/DataStructuresImplementation.git) by using the <a href="https://github.com/spandey1296/CODEMONK-2022/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button.
 
 
 ### 2. Clone it :busts_in_silhouette:
@@ -64,11 +64,11 @@ $ git clone https://github.com/Your_Name/DataStructuresImplementation.git
 
 > This makes a local copy of the repository in your machine.
 
-Once you have cloned the `HackOctober22` repository in Github, move to that folder first using change directory command on Linux, Mac, and Windows(PowerShell to be used).
+Once you have cloned the `DataStructuresImplementation` repository in Github, move to that folder first using change directory command on Linux, Mac, and Windows(PowerShell to be used).
 
 ```sh
 # This will change directory to a folder Hacktoberfest-2022
-$ cd HackOctober22
+$ cd DataStructuresImplementation
 ```
 
 Move to this folder for all other commands.If the programming language is not present please create a new folder.
@@ -83,10 +83,10 @@ origin  https://github.com/Your_Name/DataStructuresImplementation.git (fetch)
 origin  https://github.com/Your_Name/DataStructuresImplementation.git (push)
 ```
 
-Now, let's add a reference to the original [HackOctober22](https://github.com/SubratYeeshu/DataStructuresImplementation.git) repository using
+Now, let's add a reference to the original [DataStructuresImplementation](https://github.com/SubratYeeshu/DataStructuresImplementation.git) repository using
 
 ```sh
-$ git remote add upstream https://github.com/abhiramkg2000/HackOctober22
+$ git remote add upstream https://github.com/abhiramkg2000/DataStructuresImplementation
 ```
 
 > This adds a new remote named ***upstream***.
@@ -95,10 +95,10 @@ See the changes using
 
 ```sh
 $ git remote -v
-origin    https://github.com/Your_Username/HackOctober22.git (fetch)
-origin    https://github.com/Your_Username/HackOctober22.git (push)
-upstream  https://github.com/Remote_Username/HackOctober22.git (fetch)
-upstream  https://github.com/Remote_Username/HackOctober22.git (push)
+origin    https://github.com/Your_Username/DataStructuresImplementation.git (fetch)
+origin    https://github.com/Your_Username/DataStructuresImplementation.git (push)
+upstream  https://github.com/Remote_Username/DataStructuresImplementation.git (fetch)
+upstream  https://github.com/Remote_Username/DataStructuresImplementation.git (push)
 ```
 
 ### 4. Sync it :recycle:
@@ -116,7 +116,7 @@ $ git checkout main
 # Reset local `main` branch to match the `upstream` repository's `main` branch
 $ git reset --hard upstream/main
 
-# Push changes to your forked `HackOctober22` repo
+# Push changes to your forked `DataStructuresImplementation` repo
 $ git push origin main
 ```
 
